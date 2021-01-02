@@ -34,4 +34,4 @@ registerMicroApps([
 // 启动 qiankun
 start()
 
-// setDefaultMountApp('/#/login')
+setDefaultMountApp('/#/login')
